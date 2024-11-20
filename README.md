@@ -22,3 +22,7 @@ composer install
     "rate": 0.05,
     "time": 5
   }
+
+[![Miniatura 1](https://i.ibb.co/1mG3ZXQ/min1.png)](screenshots/full1.png)
+[![Miniatura 2](https://i.ibb.co/1mG3ZXQ/min1.png)](screenshots/full2.png)
+[![Miniatura 3](https://i.ibb.co/1mG3ZXQ/min1.png)](screenshots/full3.png)
