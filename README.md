@@ -23,7 +23,7 @@ composer install
     "time": 5
   }
 
-  ##
+##
 
 [![Miniatura 1](https://i.ibb.co/9yVk415/min1.png)](https://i.ibb.co/6Xrsd4x/Captura-de-pantalla-2024-11-20-a-las-6-06-40.png)
 [![Miniatura 2](https://i.ibb.co/J5tcwCW/min2.png)](https://i.ibb.co/k0s2hdH/Captura-de-pantalla-2024-11-20-a-las-6-07-19.png)
