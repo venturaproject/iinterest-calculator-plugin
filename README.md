@@ -24,5 +24,5 @@ composer install
   }
 
 [![Miniatura 1](https://i.ibb.co/9yVk415/min1.png)](https://i.ibb.co/6Xrsd4x/Captura-de-pantalla-2024-11-20-a-las-6-06-40.png)
-[![Miniatura 2](https://i.ibb.co/9yVk415/min1.png)](screenshots/full2.png)
-[![Miniatura 3](https://i.ibb.co/9yVk415/min1.png)](screenshots/full3.png)
+[![Miniatura 2](https://i.ibb.co/J5tcwCW/min2.png)](https://i.ibb.co/k0s2hdH/Captura-de-pantalla-2024-11-20-a-las-6-07-19.png)
+[![Miniatura 3](https://i.ibb.co/vH0FJwX/min3.png)](https://i.ibb.co/mGCV3H4/Captura-de-pantalla-2024-11-20-a-las-6-10-58.png)
